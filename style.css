@@ -1,0 +1,18 @@
+body
+{
+    color: mintcream;
+    background: black;
+        font-family: cursive;
+}
+hr{
+    background-color:inherit;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: wheat ;
+    border-width: 6px;
+    width: 20%;
+}
+.blogs
+{
+    box-shadow: 0 0 50px #fff,-10px 0 80px #f0f,10px 0 80px #0ff;
+}
